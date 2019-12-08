@@ -1,0 +1,7 @@
+﻿  main.cpp
+h:\dokumenty\informatyka\semestr i\pp\projekt 1\consoleapplication3\main.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\dokumenty\informatyka\semestr i\pp\projekt 1\consoleapplication3\main.cpp(576): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  conio2.cpp
+  Generating Code...
+  ConsoleApplication3.vcxproj -> H:\Dokumenty\INFORMATYKA\Semestr I\PP\Projekt 1\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> H:\Dokumenty\INFORMATYKA\Semestr I\PP\Projekt 1\Debug\ConsoleApplication3.pdb (Partial PDB)
