@@ -1,6 +1,6 @@
 # Binary Puzzle
 
-> This is my first project made a few weeks after starting programming. The binary puzzle is a challenging logic puzzle that can be solved just by reasoning. Only zeros and ones occur in the puzzle, but this turns out to be more complicated than it seems to be.
+> This is my first project that was made a few weeks after starting programming. The binary puzzle is a challenging logic puzzle that can be solved just by reasoning. Only zeros and ones occur in the puzzle, but this turns out to be more complicated than it seems to be.
 
 
 ## Screenshots
