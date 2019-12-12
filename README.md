@@ -17,7 +17,7 @@
 * Displaying the fields that cannot be filled
 * Automatic detection of the end of the game
 * Highlighting the fields that can by filled only in one way
-* filling the highlighted fields
+* Filling the highlighted fields
 
 
 ## Contact
