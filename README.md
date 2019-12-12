@@ -7,15 +7,18 @@
 ![Screenshot](https://i.imgur.com/b2bu1z5.png)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* C / C++
 
 
 ## Features
 * Random filling the board
-* Awesome feature 2
+* A simple hint
 * Awesome feature 3
+* Changing the size of the board
+* Displaying fields that cannot be filled
+* Automatic detection of the end of the game
+* Highlighting fields that can by filled only in one way
+* filling the highlighted fields
 
 
 ## Contact
