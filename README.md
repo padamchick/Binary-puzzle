@@ -13,11 +13,10 @@
 ## Features
 * Random filling the board
 * A simple hint
-* Awesome feature 3
 * Changing the size of the board
-* Displaying fields that cannot be filled
+* Displaying the fields that cannot be filled
 * Automatic detection of the end of the game
-* Highlighting fields that can by filled only in one way
+* Highlighting the fields that can by filled only in one way
 * filling the highlighted fields
 
 
