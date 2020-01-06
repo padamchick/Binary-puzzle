@@ -16,7 +16,7 @@
 * Changing the size of the board
 * Displaying the fields that cannot be filled
 * Automatic detection of the end of the game
-* Highlighting the fields that can by filled only in one way
+* Highlighting the fields that can be filled only in one way
 * Filling the highlighted fields
 
 
